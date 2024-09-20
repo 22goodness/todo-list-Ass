@@ -48,6 +48,7 @@ function App(props) {
               Eat
             </label>
           </div>
+          
           <div className="btn-group">
             <button type="button" className="btn">
               Edit <span className="visually-hidden">Eat</span>
