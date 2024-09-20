@@ -5,7 +5,7 @@ function App(props) {
       <form>
         <h2 className="label-wrapper">
           <label htmlFor="new-todo-input" className="label__lg">
-            What do I need to do?
+            What do I need to?
           </label>
         </h2>
         <input
